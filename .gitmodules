@@ -1,0 +1,9 @@
+[submodule "share_share_client"]
+	path = share_share_client
+	url = https://github.com/ngspipes2/share_share_client.git
+[submodule "share_share_api"]
+	path = share_share_api
+	url = https://github.com/ngspipes2/share_share_api.git
+[submodule "share_server_repository"]
+	path = share_server_repository
+	url = https://github.com/ngspipes2/share_server_repository.git
