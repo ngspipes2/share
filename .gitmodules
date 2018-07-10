@@ -10,3 +10,6 @@
 [submodule "share_tools_server_repository"]
 	path = share_tools_server_repository
 	url = https://github.com/ngspipes2/share_tools_server_repository.git
+[submodule "share_authentication_server"]
+	path = share_authentication_server
+	url = https://github.com/ngspipes2/share_authentication_server.git
