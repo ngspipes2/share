@@ -15,5 +15,4 @@
 	url = https://github.com/ngspipes2/share_core.git
 [submodule "share_repository_facade"]
 	path = share_repository_facade
-	
 	url = https://github.com/ngspipes2/share_repository_facade.git
