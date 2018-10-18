@@ -12,7 +12,8 @@
 	url = https://github.com/ngspipes2/share_tools_server_repository.git
 [submodule "share_core"]
 	path = share_core
-	url = https://github.com/ngspipes2/share_core
+	url = https://github.com/ngspipes2/share_core.git
 [submodule "share_repository_facade"]
 	path = share_repository_facade
+	
 	url = https://github.com/ngspipes2/share_repository_facade.git
