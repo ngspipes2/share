@@ -16,3 +16,9 @@
 [submodule "share_core"]
 	path = share_core
 	url = https://github.com/ngspipes2/share_core.git
+
+[submodule "share_dynamic_repository"]
+	
+	path = share_dynamic_repository
+	
+	url = https://github.com/ngspipes2/share_dynamic_repository.git

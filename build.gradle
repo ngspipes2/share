@@ -12,6 +12,7 @@ repositories {
 dependencies {
     compile project(':share_core')
     compile project(':share_repository_facade')
+    compile project(':share_dynamic_repository')
     compile project(':share_pipelines_server_repository')
     compile project(':share_tools_server_repository')
     compile project(':share_share_api')
